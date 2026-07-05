@@ -1,2 +1,2 @@
 username = "salam"
-print(username) sdsadaiodaw 
+print(username)
